@@ -1,3 +1,5 @@
+# Copyright (c) 2023 pi3g GmbH & Co. KG
+
 import click
 import subprocess
 from subprocess import STDOUT, DEVNULL
